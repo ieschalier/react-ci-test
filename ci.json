@@ -1,0 +1,9 @@
+{
+  "plugins": {
+    "s3": {
+      "bucket": "react-ci-test",
+      "access_key_id": "AKIAIZNEN423WE2DYQMQ",
+      "secret_access_key": "H6QVXZLxyGRtyCB6MnlZcxqPdBANB4c2QkYYMxaNSXSW/x2mTYwuXOk2T2afm9X5XV87TV3OsVatpSHupXD3Mj5mypMI2Zr6qzpMttHX+udlROYsKQgOC2p5fPw/Co/9TegrmMWeRb74v+tMGY9TTtRsaoFY4g5LKaZHTQ6TBWNjo6T7ZVI1gNcHsmqBZe6YwYDM6s++/8+0mfdzhnFtdHdWbylBxpxLwNrKOCq1WJEFJKWaIhpepJTw8w6X+9f/9EEVtJ5SnfOT57wysnneA5Cd+QzSqlDTtorZGcKW+5KJiEnaFUjjGV9gkkkHWE1MA0Lw1+WW9U4wfIWnHhdqdg=="
+    }
+  }
+}
