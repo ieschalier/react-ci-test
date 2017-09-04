@@ -4,6 +4,11 @@
       "bucket": "react-ci-test",
       "access_key_id": "AKIAIZNEN423WE2DYQMQ",
       "secret_access_key": "H6QVXZLxyGRtyCB6MnlZcxqPdBANB4c2QkYYMxaNSXSW/x2mTYwuXOk2T2afm9X5XV87TV3OsVatpSHupXD3Mj5mypMI2Zr6qzpMttHX+udlROYsKQgOC2p5fPw/Co/9TegrmMWeRb74v+tMGY9TTtRsaoFY4g5LKaZHTQ6TBWNjo6T7ZVI1gNcHsmqBZe6YwYDM6s++/8+0mfdzhnFtdHdWbylBxpxLwNrKOCq1WJEFJKWaIhpepJTw8w6X+9f/9EEVtJ5SnfOT57wysnneA5Cd+QzSqlDTtorZGcKW+5KJiEnaFUjjGV9gkkkHWE1MA0Lw1+WW9U4wfIWnHhdqdg=="
+    },
+    "surge": {
+      "domain": "igor-test.surge.sh",
+      "email": "igor.eschalier@gmail.com",
+      "token": "dLYTOyw0DbsQ7KqqLNsqfDNwgmwLt0Xe4ZTzKzFJX9r9cySHwwT+r7oIVy3s0miWePsLYanzQYjsmfd4sH65d4+pAql6ICn5nOec2ed8iDm1BYCJXzgNH/iwP3v2RZgVhB+GFhIk56SfYNAZC1QFFI52wbyueL30ClrNOkU24dsy792RQIqOUnTM7AdhfMZ/pM4f4+mulxCMHcMTaIQE9YTB3ofF/GROWo1Y7sHSuVm8NeumW9VafenO/tLYVlteePjgvaFfamhGMaGNmJYSs0YUFKGIqwGnjjbw0HiHsdqnlKC1wQxrs5cPJ+qrqWDy0Eolh80LLRjR63dF9lVsqKtOeVZGdFONHhE3rfL7pppKdq07jnyVEx39FmA10xJWeLPyvcMFEgJFN92ldAfg58oFwdJhxSnm75JVGzM/Wn23TaVeYeF5xML5M0nFxjZbafJYxykWytAmbd87uUoCHxczgxALTxqDUG3O6qpQysTwCLUn8Vngni1MAmq9s+ElwM78r+Zct0wZEFb+Aam2B5wSd9rhR9xLkp/3OPk5CHULmJ65qdwd+gCnU5CHnz/F+aSbilzNt9FJGi5Hb5cY4MllqOQNCv8EcmlcnHjZajRRmXZ+3U+Mi/dQqvdNIDB+c5uG1bwDkxkN3fYyCTjKbsJTXlwe+YUAfOCGArr75vM="
     }
   }
 }
